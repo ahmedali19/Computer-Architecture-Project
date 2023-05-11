@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Single_Cycle_Processor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Single_Cycle_Processor" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="6500001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="218"></NameColumnWidth>
+      <ValueColumnWidth column_width="105"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/TB_Single_Cycle_Processor/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_inst_addr" type="array">
+      <obj_property name="ElementShortName">x_inst_addr[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_inst_addr[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_write_data" type="array">
+      <obj_property name="ElementShortName">x_write_data[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_write_data[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_read_data1" type="array">
+      <obj_property name="ElementShortName">x_read_data1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_read_data1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_read_data2" type="array">
+      <obj_property name="ElementShortName">x_read_data2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_read_data2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_immediate" type="array">
+      <obj_property name="ElementShortName">x_immediate[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_immediate[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_next_pc1" type="array">
+      <obj_property name="ElementShortName">x_next_pc1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_next_pc1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_next_pc2" type="array">
+      <obj_property name="ElementShortName">x_next_pc2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_next_pc2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_alu_result" type="array">
+      <obj_property name="ElementShortName">x_alu_result[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_alu_result[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_read" type="array">
+      <obj_property name="ElementShortName">x_data_read[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_read[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem0" type="array">
+      <obj_property name="ElementShortName">x_data_mem0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem1" type="array">
+      <obj_property name="ElementShortName">x_data_mem1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem2" type="array">
+      <obj_property name="ElementShortName">x_data_mem2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem3" type="array">
+      <obj_property name="ElementShortName">x_data_mem3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem4" type="array">
+      <obj_property name="ElementShortName">x_data_mem4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem5" type="array">
+      <obj_property name="ElementShortName">x_data_mem5[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem5[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem6" type="array">
+      <obj_property name="ElementShortName">x_data_mem6[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem6[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem7" type="array">
+      <obj_property name="ElementShortName">x_data_mem7[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem7[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem8" type="array">
+      <obj_property name="ElementShortName">x_data_mem8[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem8[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_data_mem9" type="array">
+      <obj_property name="ElementShortName">x_data_mem9[63:0]</obj_property>
+      <obj_property name="ObjectShortName">x_data_mem9[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_inst" type="array">
+      <obj_property name="ElementShortName">x_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_rd" type="array">
+      <obj_property name="ElementShortName">x_rd[4:0]</obj_property>
+      <obj_property name="ObjectShortName">x_rd[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_rs1" type="array">
+      <obj_property name="ElementShortName">x_rs1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">x_rs1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_rs2" type="array">
+      <obj_property name="ElementShortName">x_rs2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">x_rs2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_BrCtrl" type="logic">
+      <obj_property name="ElementShortName">x_BrCtrl</obj_property>
+      <obj_property name="ObjectShortName">x_BrCtrl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_Branch" type="logic">
+      <obj_property name="ElementShortName">x_Branch</obj_property>
+      <obj_property name="ObjectShortName">x_Branch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_MemRead" type="logic">
+      <obj_property name="ElementShortName">x_MemRead</obj_property>
+      <obj_property name="ObjectShortName">x_MemRead</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_MemWrite" type="logic">
+      <obj_property name="ElementShortName">x_MemWrite</obj_property>
+      <obj_property name="ObjectShortName">x_MemWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_MemToReg" type="logic">
+      <obj_property name="ElementShortName">x_MemToReg</obj_property>
+      <obj_property name="ObjectShortName">x_MemToReg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_RegWrite" type="logic">
+      <obj_property name="ElementShortName">x_RegWrite</obj_property>
+      <obj_property name="ObjectShortName">x_RegWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_ALUSrc" type="logic">
+      <obj_property name="ElementShortName">x_ALUSrc</obj_property>
+      <obj_property name="ObjectShortName">x_ALUSrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_zero" type="logic">
+      <obj_property name="ElementShortName">x_zero</obj_property>
+      <obj_property name="ObjectShortName">x_zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Single_Cycle_Processor/x_less" type="logic">
+      <obj_property name="ElementShortName">x_less</obj_property>
+      <obj_property name="ObjectShortName">x_less</obj_property>
+   </wvobject>
+</wave_config>

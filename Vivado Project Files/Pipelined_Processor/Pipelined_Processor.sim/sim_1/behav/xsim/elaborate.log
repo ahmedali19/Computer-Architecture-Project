@@ -1,0 +1,12 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 115a1077c7e14f93aae906ca039b1f82 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TB_Pipelined_Processor_behav xil_defaultlib.TB_Pipelined_Processor xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 4 for port 'funct3_ID' [C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Pipelined_Processor.v:167]
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 4 for port 'funct3_EX' [C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Pipelined_Processor.v:176]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 64 for port 'rd_MEM' [C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Pipelined_Processor.v:260]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 64 for port 'rd_WB' [C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Pipelined_Processor.v:264]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

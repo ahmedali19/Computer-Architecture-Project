@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../Pipelined Processor/ALU.v" \
+"../../../../../../Pipelined Processor/Adder.v" \
+"../../../../../../Pipelined Processor/BranchControl.v" \
+"../../../../../../Pipelined Processor/ControlUnit.v" \
+"../../../../../../Pipelined Processor/DataMemory.v" \
+"../../../../../../Pipelined Processor/ImmGen.v" \
+"../../../../../../Pipelined Processor/InstMemory.v" \
+"../../../../../../Pipelined Processor/InstParser.v" \
+"../../../../../../Pipelined Processor/Mux2x1.v" \
+"../../../../../../Pipelined Processor/Pipelined_Processor.v" \
+"../../../../../../Pipelined Processor/ProgramCounter.v" \
+"../../../../../../Pipelined Processor/Register-EX-MEM.v" \
+"../../../../../../Pipelined Processor/Register-ID-EX.v" \
+"../../../../../../Pipelined Processor/Register-IF-ID.v" \
+"../../../../../../Pipelined Processor/Register-MEM-WB.v" \
+"../../../../../../Pipelined Processor/RegisterFile.v" \
+"../../../../../../Pipelined Processor/TB_Pipelined_Processor.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

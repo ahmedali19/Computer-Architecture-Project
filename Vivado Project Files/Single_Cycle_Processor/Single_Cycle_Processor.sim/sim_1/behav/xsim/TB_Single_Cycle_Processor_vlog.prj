@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../Single Cycle Processor/ALU.v" \
+"../../../../../../Single Cycle Processor/Adder.v" \
+"../../../../../../Single Cycle Processor/BranchControl.v" \
+"../../../../../../Single Cycle Processor/ControlUnit.v" \
+"../../../../../../Single Cycle Processor/DataMemory.v" \
+"../../../../../../Single Cycle Processor/ImmGen.v" \
+"../../../../../../Single Cycle Processor/InstMemory.v" \
+"../../../../../../Single Cycle Processor/InstParser.v" \
+"../../../../../../Single Cycle Processor/Mux2x1.v" \
+"../../../../../../Single Cycle Processor/ProgramCounter.v" \
+"../../../../../../Single Cycle Processor/RegisterFile.v" \
+"../../../../../../Single Cycle Processor/Single_Cycle_Processor.v" \
+"../../../../../../Single Cycle Processor/TB_Single_Cycle_Processor.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

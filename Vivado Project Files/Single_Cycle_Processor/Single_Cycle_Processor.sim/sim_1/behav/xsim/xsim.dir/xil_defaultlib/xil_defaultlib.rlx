@@ -1,0 +1,18 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ALU.v,1683033460,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/Adder.v,,ALU,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/Adder.v,1682795617,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/BranchControl.v,,Adder,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/BranchControl.v,1682945739,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ControlUnit.v,,BranchControl,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ControlUnit.v,1682795307,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/DataMemory.v,,ControlUnit,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/DataMemory.v,1682928678,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ImmGen.v,,DataMemory,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ImmGen.v,1682795473,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/InstMemory.v,,ImmGen,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/InstMemory.v,1683051762,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/InstParser.v,,InstMemory,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/InstParser.v,1682790587,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/Mux2x1.v,,InstParser,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/Mux2x1.v,1682779749,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ProgramCounter.v,,Mux2x1,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/ProgramCounter.v,1682795452,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/RegisterFile.v,,ProgramCounter,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/RegisterFile.v,1682792161,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/Single_Cycle_Processor.v,,RegisterFile,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/Single_Cycle_Processor.v,1683795292,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/TB_Single_Cycle_Processor.v,,Single_Cycle_Processor,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Single Cycle Processor/TB_Single_Cycle_Processor.v,1683795328,verilog,,,,TB_Single_Cycle_Processor,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Vivado Project Files/Single_Cycle_Processor/Single_Cycle_Processor.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,

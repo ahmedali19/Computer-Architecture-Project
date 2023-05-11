@@ -1,0 +1,22 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ALU.v,1683033460,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Adder.v,,ALU,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Adder.v,1682795617,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/BranchControl.v,,Adder,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/BranchControl.v,1682945739,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ControlUnit.v,,BranchControl,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ControlUnit.v,1682795307,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/DataMemory.v,,ControlUnit,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/DataMemory.v,1682928678,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ImmGen.v,,DataMemory,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ImmGen.v,1682795473,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/InstMemory.v,,ImmGen,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/InstMemory.v,1683797186,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/InstParser.v,,InstMemory,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/InstParser.v,1682790587,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Mux2x1.v,,InstParser,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Mux2x1.v,1682779749,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Pipelined_Processor.v,,Mux2x1,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Pipelined_Processor.v,1683282408,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ProgramCounter.v,,Pipelined_Processor,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/ProgramCounter.v,1682795452,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-EX-MEM.v,,ProgramCounter,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-EX-MEM.v,1683282157,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-ID-EX.v,,Register_EX_MEM,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-ID-EX.v,1683279305,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-IF-ID.v,,Register_ID_EX,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-IF-ID.v,1683273772,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-MEM-WB.v,,Register_IF_ID,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/Register-MEM-WB.v,1683281677,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/RegisterFile.v,,Register_MEM_WB,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/RegisterFile.v,1682792161,verilog,,C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/TB_Pipelined_Processor.v,,RegisterFile,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Pipelined Processor/TB_Pipelined_Processor.v,1683796114,verilog,,,,TB_Pipelined_Processor,,,,,,,,
+C:/Users/AhmedAli/Desktop/CA Project/Vivado Project Files/Pipelined_Processor/Pipelined_Processor.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
